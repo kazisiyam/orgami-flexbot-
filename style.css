@@ -1,0 +1,36 @@
+h1{
+    color: #a546;  
+    margin-left:30px;
+    padding-bottom: 40px;
+    }
+    
+    *{
+    border: solid; 
+    }
+
+  .header{
+    display:flex;
+    justify-content: space-between;
+
+    } 
+    .orgami {
+        display:flex;
+    justify-content: space-evenly;
+    }
+
+    .o:hover img {
+        opacity: 0.3;
+    }
+
+    h2{
+        margin-left: 30px; 
+        padding-top: 40px;
+        color: #a94; 
+    }
+    
+
+    
+
+
+    
+
